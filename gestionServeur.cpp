@@ -1,5 +1,5 @@
 #include "fenetre.h"
-
+//couleur connexion
 void couleurVert(QLabel *label)
 {
     QColor couleur(Qt::darkGreen);
